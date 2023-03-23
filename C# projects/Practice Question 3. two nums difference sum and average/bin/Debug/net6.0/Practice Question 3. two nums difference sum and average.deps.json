@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practice Question 3. two nums difference sum and average/1.0.0": {
+        "runtime": {
+          "Practice Question 3. two nums difference sum and average.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice Question 3. two nums difference sum and average/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

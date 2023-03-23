@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\bin\Debug\net6.0\String Lengths.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\bin\Debug\net6.0\String Lengths.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\bin\Debug\net6.0\String Lengths.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\bin\Debug\net6.0\String Lengths.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\bin\Debug\net6.0\String Lengths.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\String Lengths.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\String Lengths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\String Lengths.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\String Lengths.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\String Lengths.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\String Lengths.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\refint\String Lengths.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\String Lengths.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\String Lengths.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String Lengths\obj\Debug\net6.0\ref\String Lengths.dll

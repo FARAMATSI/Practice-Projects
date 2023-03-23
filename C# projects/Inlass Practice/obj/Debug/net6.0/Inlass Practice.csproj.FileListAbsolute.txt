@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\bin\Debug\net6.0\Inlass Practice.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\bin\Debug\net6.0\Inlass Practice.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\bin\Debug\net6.0\Inlass Practice.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\bin\Debug\net6.0\Inlass Practice.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\bin\Debug\net6.0\Inlass Practice.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\Inlass Practice.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\Inlass Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\Inlass Practice.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\Inlass Practice.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\Inlass Practice.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\Inlass Practice.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\refint\Inlass Practice.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\Inlass Practice.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\Inlass Practice.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Inlass Practice\obj\Debug\net6.0\ref\Inlass Practice.dll

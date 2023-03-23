@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\bin\Debug\net6.0\3 nums comparison.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\bin\Debug\net6.0\3 nums comparison.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\bin\Debug\net6.0\3 nums comparison.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\bin\Debug\net6.0\3 nums comparison.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\bin\Debug\net6.0\3 nums comparison.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\3 nums comparison.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\3 nums comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\3 nums comparison.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\3 nums comparison.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\3 nums comparison.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\3 nums comparison.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\refint\3 nums comparison.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\3 nums comparison.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\3 nums comparison.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\3 nums comparison\obj\Debug\net6.0\ref\3 nums comparison.dll

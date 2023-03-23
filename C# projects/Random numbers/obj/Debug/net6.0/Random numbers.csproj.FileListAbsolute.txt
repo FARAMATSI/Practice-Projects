@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\bin\Debug\net6.0\Random numbers.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\bin\Debug\net6.0\Random numbers.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\bin\Debug\net6.0\Random numbers.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\bin\Debug\net6.0\Random numbers.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\bin\Debug\net6.0\Random numbers.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\Random numbers.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\Random numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\Random numbers.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\Random numbers.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\Random numbers.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\Random numbers.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\refint\Random numbers.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\Random numbers.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\Random numbers.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Random numbers\obj\Debug\net6.0\ref\Random numbers.dll

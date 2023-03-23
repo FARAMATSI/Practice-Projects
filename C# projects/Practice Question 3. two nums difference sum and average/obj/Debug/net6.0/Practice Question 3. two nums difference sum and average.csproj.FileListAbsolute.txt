@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\bin\Debug\net6.0\Practice Question 3. two nums difference sum and average.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\bin\Debug\net6.0\Practice Question 3. two nums difference sum and average.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\bin\Debug\net6.0\Practice Question 3. two nums difference sum and average.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\bin\Debug\net6.0\Practice Question 3. two nums difference sum and average.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\bin\Debug\net6.0\Practice Question 3. two nums difference sum and average.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\Practice Question 3. two nums difference sum and average.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\Practice Question 3. two nums difference sum and average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\Practice Question 3. two nums difference sum and average.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\Practice Question 3. two nums difference sum and average.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\Practice Question 3. two nums difference sum and average.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\Practice Question 3. two nums difference sum and average.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\refint\Practice Question 3. two nums difference sum and average.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\Practice Question 3. two nums difference sum and average.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\Practice Question 3. two nums difference sum and average.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 3. two nums difference sum and average\obj\Debug\net6.0\ref\Practice Question 3. two nums difference sum and average.dll

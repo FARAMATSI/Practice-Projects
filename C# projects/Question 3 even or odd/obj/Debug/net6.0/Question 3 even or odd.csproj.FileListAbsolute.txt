@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\bin\Debug\net6.0\Question 3 even or odd.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\bin\Debug\net6.0\Question 3 even or odd.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\bin\Debug\net6.0\Question 3 even or odd.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\bin\Debug\net6.0\Question 3 even or odd.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\bin\Debug\net6.0\Question 3 even or odd.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\Question 3 even or odd.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\Question 3 even or odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\Question 3 even or odd.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\Question 3 even or odd.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\Question 3 even or odd.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\Question 3 even or odd.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\refint\Question 3 even or odd.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\Question 3 even or odd.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\Question 3 even or odd.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 3 even or odd\obj\Debug\net6.0\ref\Question 3 even or odd.dll
