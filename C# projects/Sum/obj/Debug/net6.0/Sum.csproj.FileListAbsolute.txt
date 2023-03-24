@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\bin\Debug\net6.0\Sum.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\bin\Debug\net6.0\Sum.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\bin\Debug\net6.0\Sum.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\bin\Debug\net6.0\Sum.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\bin\Debug\net6.0\Sum.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\Sum.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\Sum.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\Sum.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\Sum.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\refint\Sum.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\Sum.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\Sum.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Sum\obj\Debug\net6.0\ref\Sum.dll
