@@ -18,6 +18,14 @@ namespace Random_numbers
                     Console.WriteLine("Yes the number you entered matches with {0}",d);
                     a++;
                 }
+                else if (num > d)
+                {
+                    Console.WriteLine("Your guess is too high please try again");
+                }
+                else if(num < d)
+                {
+                    Console.WriteLine("Your guess is too low, try again");
+                }
             }
             
         }

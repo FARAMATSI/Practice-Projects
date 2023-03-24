@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\Practice Question 7 arrayint.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\Practice Question 7 arrayint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\Practice Question 7 arrayint.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\Practice Question 7 arrayint.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\Practice Question 7 arrayint.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\bin\Debug\net6.0\Practice Question 7 arrayint.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\bin\Debug\net6.0\Practice Question 7 arrayint.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\bin\Debug\net6.0\Practice Question 7 arrayint.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\bin\Debug\net6.0\Practice Question 7 arrayint.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\bin\Debug\net6.0\Practice Question 7 arrayint.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\Practice Question 7 arrayint.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\refint\Practice Question 7 arrayint.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\Practice Question 7 arrayint.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\Practice Question 7 arrayint.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice Question 7 arrayint\obj\Debug\net6.0\ref\Practice Question 7 arrayint.dll

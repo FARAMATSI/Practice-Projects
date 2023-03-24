@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\bin\Debug\net6.0\String array sorted.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\bin\Debug\net6.0\String array sorted.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\bin\Debug\net6.0\String array sorted.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\bin\Debug\net6.0\String array sorted.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\bin\Debug\net6.0\String array sorted.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\String array sorted.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\String array sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\String array sorted.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\String array sorted.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\String array sorted.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\String array sorted.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\refint\String array sorted.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\String array sorted.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\String array sorted.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\String array sorted\obj\Debug\net6.0\ref\String array sorted.dll
