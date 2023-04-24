@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\bin\Debug\net6.0\Question 8 practice.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\bin\Debug\net6.0\Question 8 practice.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\bin\Debug\net6.0\Question 8 practice.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\bin\Debug\net6.0\Question 8 practice.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\bin\Debug\net6.0\Question 8 practice.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\Question 8 practice.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\Question 8 practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\Question 8 practice.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\Question 8 practice.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\Question 8 practice.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\Question 8 practice.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\refint\Question 8 practice.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\Question 8 practice.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\Question 8 practice.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Question 8 practice\obj\Debug\net6.0\ref\Question 8 practice.dll

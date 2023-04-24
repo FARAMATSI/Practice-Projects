@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\bin\Debug\net6.0\Practice qn1.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\bin\Debug\net6.0\Practice qn1.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\bin\Debug\net6.0\Practice qn1.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\bin\Debug\net6.0\Practice qn1.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\bin\Debug\net6.0\Practice qn1.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\Practice qn1.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\Practice qn1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\Practice qn1.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\Practice qn1.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\Practice qn1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\Practice qn1.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\refint\Practice qn1.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\Practice qn1.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\Practice qn1.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Practice qn1\obj\Debug\net6.0\ref\Practice qn1.dll

@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\bin\Debug\net6.0\C# Practice qn 9.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\bin\Debug\net6.0\C# Practice qn 9.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\bin\Debug\net6.0\C# Practice qn 9.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\bin\Debug\net6.0\C# Practice qn 9.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\bin\Debug\net6.0\C# Practice qn 9.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\C# Practice qn 9.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\C# Practice qn 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\C# Practice qn 9.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\C# Practice qn 9.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\C# Practice qn 9.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\C# Practice qn 9.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\refint\C# Practice qn 9.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\C# Practice qn 9.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\C# Practice qn 9.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\C# Practice qn 9\obj\Debug\net6.0\ref\C# Practice qn 9.dll
