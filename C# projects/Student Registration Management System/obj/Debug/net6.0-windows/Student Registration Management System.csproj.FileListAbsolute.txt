@@ -1,0 +1,21 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\bin\Debug\net6.0-windows\Student Registration Management System.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\bin\Debug\net6.0-windows\Student Registration Management System.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student_Registration_Management_System.Form1.resources
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student_Registration_Management_System.LoginForm.resources
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student_Registration_Management_System.Login_Form.resources
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student_Registration_Management_System.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student_Registration_Management_System.RegisterStudent.resources
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\refint\Student Registration Management System.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\bin\Debug\net6.0-windows\Student Registration Management System.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\bin\Debug\net6.0-windows\Student Registration Management System.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\bin\Debug\net6.0-windows\Student Registration Management System.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\Student Registration Management System.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\Student Registration Management System\obj\Debug\net6.0-windows\ref\Student Registration Management System.dll
