@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\bin\Debug\net6.0\OverNightAssignmentC#.exe
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\bin\Debug\net6.0\OverNightAssignmentC#.deps.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\bin\Debug\net6.0\OverNightAssignmentC#.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\bin\Debug\net6.0\OverNightAssignmentC#.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\bin\Debug\net6.0\OverNightAssignmentC#.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\OverNightAssignmentC#.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\OverNightAssignmentC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\OverNightAssignmentC#.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\OverNightAssignmentC#.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\OverNightAssignmentC#.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\OverNightAssignmentC#.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\refint\OverNightAssignmentC#.dll
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\OverNightAssignmentC#.pdb
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\OverNightAssignmentC#.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Practice Projects\C# projects\OverNightAssignmentC#\obj\Debug\net6.0\ref\OverNightAssignmentC#.dll
